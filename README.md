@@ -1,6 +1,6 @@
-# SuttaCentral Android App
+# SuttaCentral Cordova-based Android App (for testing)
 
-Android app for [https://suttacentral.net](https://suttacentral.net) which uses Apache Cordova and Angular JS instead of WebAPK homescreen which cannot be submitted to Play Store.
+Cordova testing Android app for [https://suttacentral.net](https://suttacentral.net) which uses Apache Cordova and Angular JS instead of WebAPK homescreen which cannot be submitted to Play Store.
 
 Open in Android Studio and hit build. There is also a prebuilt debug apk in build/outputs/apk.
 
